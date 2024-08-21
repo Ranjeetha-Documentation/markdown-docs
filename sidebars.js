@@ -29,6 +29,11 @@ const sidebars = {
       label: 'Architecture',
       items: ['architecture/architecture']
     },
+    {
+      type: 'category',
+      label: 'Device-Management',
+      items: ['device-management/device-management']
+    },
   ],
    
 };

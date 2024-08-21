@@ -89,10 +89,10 @@ const config = {
           {
             type: 'docsVersionDropdown',
             position: 'right',
-            dropdownItemsAfter: [
-              { to: '/versions', label: 'All versions' },
-            ],
-            dropdownActiveClassDisabled: true,
+            // dropdownItemsAfter: [
+            //   { to: '/versions', label: 'All versions' },
+            // ],
+            // dropdownActiveClassDisabled: true,
           },
           {
             href: 'https://github.com/facebook/docusaurus',
