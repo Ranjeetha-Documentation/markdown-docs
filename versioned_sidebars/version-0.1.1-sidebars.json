@@ -1,0 +1,18 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "category",
+      "label": "RDK",
+      "items": [
+        "intro"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Architecture",
+      "items": [
+        "architecture/architecture"
+      ]
+    }
+  ]
+}
