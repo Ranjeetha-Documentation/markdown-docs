@@ -34,6 +34,11 @@ const sidebars = {
       label: 'Device-Management',
       items: ['device-management/device-management']
     },
+    {
+      type: 'category',
+      label: 'test-and-certification',
+      items: ['firebolt-certification/firebolt-certification']
+    },
   ],
    
 };
