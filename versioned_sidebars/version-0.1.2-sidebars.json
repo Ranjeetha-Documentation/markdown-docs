@@ -1,0 +1,25 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "category",
+      "label": "RDK",
+      "items": [
+        "intro"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Architecture",
+      "items": [
+        "architecture/architecture"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Device-Management",
+      "items": [
+        "device-management/device-management"
+      ]
+    }
+  ]
+}
