@@ -92,7 +92,7 @@ const config = {
             dropdownItemsAfter: [
               { to: '/versions', label: 'All versions' },
             ],
-            dropdownActiveClassDisabled: true,
+            // dropdownActiveClassDisabled: true,
           },
           {
             href: 'https://github.com/facebook/docusaurus',
