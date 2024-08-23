@@ -39,6 +39,11 @@ const sidebars = {
       label: 'test-and-certification',
       items: ['firebolt-certification/firebolt-certification']
     },
+    {
+      type: 'category',
+      label: 'join-rdk',
+      items: ['join-rdk/join-rdk']
+    },
   ],
    
 };
