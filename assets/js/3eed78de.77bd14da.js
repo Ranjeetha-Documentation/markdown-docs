@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_site=self.webpackChunknew_site||[]).push([[3640],{9284:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/markdown-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_site=self.webpackChunknew_site||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/markdown-docs/blog","blogTitle":"Blog","authorsListPath":"/markdown-docs/blog/authors"}')}}]);
